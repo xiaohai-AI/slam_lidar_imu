@@ -1,5 +1,5 @@
 YAML: 1.0
-bag_path: /home/xiang/Data/nclt/20130110.bag
+bag_path: /home/dand/proj_slam/slam_in_autonomous_driving/dataset/sad/nclt/20130110.bag
 lio_yaml: ./config/velodyne_nclt.yaml
 map_data: ./data/ch9/map_data/
 origin:
